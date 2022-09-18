@@ -1,4 +1,4 @@
-# balloonDeflationModelling
+# Balloon Deflation Modelling
 
 ###### (everything, including readme, imported from a google docs folder)
 ###### Created for my Grade 12 Math IA. 
