@@ -2,6 +2,9 @@
 
 ###### (everything, including readme, imported from a google docs folder)
 ###### Created for my Grade 12 Math IA. 
+###### Here's the link to the writeup explaining the modelling, logic, and math. It's really cool! 
+###### https://docs.google.com/document/d/1MCTZhtJlzVUctLk5F3fxFGNIvnWPlHICZw4bAYctVSE/edit?usp=sharing
+
 ###### Link to video (mentioned below): https://drive.google.com/file/d/1Nfkz65WCwJ8LlNNog8VnYbKgGM5-MbSj/view?usp=sharing
 > ###### It uses math!
 #
