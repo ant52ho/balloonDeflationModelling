@@ -4,11 +4,7 @@
 ###### Created for my Grade 12 Math IA. 
 ###### Here's the link to the writeup explaining the modelling, logic, and math. It's really cool! 
 ###### https://docs.google.com/document/d/1MCTZhtJlzVUctLk5F3fxFGNIvnWPlHICZw4bAYctVSE/edit?usp=sharing
-
-###### Link to video (mentioned below): https://drive.google.com/file/d/1Nfkz65WCwJ8LlNNog8VnYbKgGM5-MbSj/view?usp=sharing
-> ###### It uses math!
 #
-
 Hello, this is the folder where I’ve stored my programs and also the balloon deflation video I took. 
 
 I’ve also added a spreadsheet where I’ve directly copied my collected data. However, since the data is copied, it doesn’t come with all the graphs I’ve created. 
@@ -17,6 +13,7 @@ For clarity, videoAnalysis.py “runs” balloonWidth.py. When running the progr
 
 Feel free to look around. 
 
+###### Link to aforementioned video: https://drive.google.com/file/d/1Nfkz65WCwJ8LlNNog8VnYbKgGM5-MbSj/view?usp=sharing
 
 
 
