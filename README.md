@@ -1,6 +1,6 @@
 # balloonDeflationModelling
 
-###### (imported from a google docs folder)
+###### (everything, including readme, imported from a google docs folder)
 ###### Created for my Grade 12 Math IA. 
 > ###### It uses math!
 #
