@@ -2,6 +2,7 @@
 
 ###### (everything, including readme, imported from a google docs folder)
 ###### Created for my Grade 12 Math IA. 
+###### Link to video (mentioned below): https://drive.google.com/file/d/1Nfkz65WCwJ8LlNNog8VnYbKgGM5-MbSj/view?usp=sharing
 > ###### It uses math!
 #
 
